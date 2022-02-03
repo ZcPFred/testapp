@@ -6,7 +6,6 @@ server = app.server
 app.layout = html.Div([
     github_info_header(),
     html.Img(src="assets/burb.jpeg")
-    html.Textarea(value="assjjljljl")
 ])
 
 if __name__ == '__main__':
